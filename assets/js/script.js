@@ -1,10 +1,13 @@
+var URLSite = window.location.href;
+console.log("URL du site:", URLSite);
+
 // Fonction pour charger et appliquer les traductions
 async function changeLanguage(lang) {
     try {
         console.log('Tentative de chargement de la langue:', lang);
 
         // CHEMIN CORRIGÉ : ../lang/ depuis le dossier js/
-        const response = await fetch(`../solutech/assets/lang/${lang}.json`);
+        const response = await fetch(`${URLSite}/assets/lang/${lang}.json`);
 
         if (!response.ok) {
             throw new Error(`Fichier non trouvé: ${response.status} ${response.statusText}`);
