@@ -143,6 +143,15 @@
   "role_temoin2_depart_Info": "School Principal",
   "msg_temoin2_depart_Info": "Technoschool has transformed our school management. Thanks to ATC, we have automated 80% of our processes, saved 70% of time, and improved communication with parents. A solution perfectly tailored to African realities.",
   "role_temoin3_depart_Info": "Chiefdom Project Leader",
-  "msg_temoin3_depart_Info": "ATC successfully transformed our vision into a functional and culturally adapted application. Their expertise was crucial in reconciling technological innovation with respect for African traditions."
+  "msg_temoin3_depart_Info": "ATC successfully transformed our vision into a functional and culturally adapted application. Their expertise was crucial in reconciling technological innovation with respect for African traditions.",
+  "titre_formation_depart_Info": "Computer Science Training",
+  "section_no_formation_formation_depart_Info": "Our Training Programs ",
+  "section_msg_formation_formation_depart_Info": "Take our certified training courses delivered by our experts.",
+  "msg_prepa_formation_depart_Info": "Training Programs in Preparation",
+  "msg2_prepa_formation_depart_Info": "Our training sessions are coming soon!",
+  "msg3_prepa_formation_depart_Info": "Our team of experts is preparing comprehensive and certified training programs.",
+  "msg4_prepa_formation_depart_Info": "40% complet",
+  "btn_msg4_prepa_formation_depart_Info": "Be notified at launch",
+  "signature_prepa_formation_depart_Info": "Developed by ATC – Innovation & Training"
 
 }
