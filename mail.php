@@ -3,17 +3,12 @@
     // POST Request
     if ($_SERVER["REQUEST_METHOD"] == "POST") {
         // form fields and remove whitespace.
-        $name = strip_tags(trim($_POST["name"]));
-			$name = str_replace(array("\r","\n"),array(" "," "),$name);
-        $email = filter_var(trim($_POST["email"]), FILTER_SANITIZE_EMAIL);
-        $num = trim($_POST["phone"]);
-        $zip = trim($_POST["zip"]);
-        $city = trim($_POST["city"]);
-        $address = trim($_POST["address"]);
-        $website = trim($_POST["website"]);
-        $subject = trim($_POST["subject"]);
-        $password = trim($_POST["password"]);
-		 $select_opt = trim($_POST["select_opt"]);
+        $name   = strip_tags(trim($_POST["name"]));
+		$name    = str_replace(array("\r","\n"),array(" "," "),$name);
+        $email   = filter_var(trim($_POST["email"]), FILTER_SANITIZE_EMAIL);
+        $num     = trim($_POST["phone"]);
+        $city    = trim($_POST["city"]);
+        $pays    = trim($_POST["pays"]);
         $comment = trim($_POST["comment"]);
 
         // Check sent to the mailer.
@@ -25,24 +20,19 @@
         }
 
         // Set the recipient email address.
-        $recipient = "info@example.com";
+        $recipient = "achilletawokam@gmail.com";
 
         // Set the email sub.
-        $sub = "Mail contact from $name";
+        $sub = "Email envoyé par $name depuis le site web ATC";
 
         // Build the email content.
-        $email_content = "Name: $name\n";
+        $email_content = "Nom: $name\n";
         $email_content .= "Email: $email\n\n";
-        $email_content .= "subject: $subject\n\n";
-        $email_content .= "password: $password\n\n";
-        $email_content .= "Number: $zip\n\n";
-        $email_content .= "Number: $phone\n\n";
-        $email_content .= "Number: $city\n\n";
-        $email_content .= "Number: $website\n\n";
-        $email_content .= "address: $address\n\n";
-        $email_content .= "Number: $num\n\n";
-		 $email_content .= "select_opt: $select_opt\n\n";
-        $email_content .= "Comment:\n$comment\n";
+
+        $email_content .= "Téléphone: $num\n\n";
+        $email_content .= "Ville: $city\n\n";
+        $email_content .= "Pays: $pays\n\n";
+        $email_content .= "Message:\n$comment\n";
 
         // Build the email headers.
         $email_headers = "From: $name <$email>";
