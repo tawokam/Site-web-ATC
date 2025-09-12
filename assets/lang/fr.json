@@ -30,7 +30,7 @@
   "titre_Departement_construction": "CONSTRUCTION",
   "msg_Departement_construction": "Infrastructures & Bâtiments",
   "titre_Departement_electricite": "ÉLECTRIQUE",
-  "msg_Departement_electricite": "Automatisme & Énergie",
+  "msg_Departement_electricite": "IOT, Automatisme & Énergie",
   "titre_Departement_informatique": " INFORMATIQUE",
   "msg_Departement_informatique": "Développement & Innovation",
   "titre_Departement_marketing": "MARKETING",
@@ -151,6 +151,13 @@
   "msg3_prepa_formation_depart_Info": "Notre équipe d'experts prépare des programmes de formation complets et certifiants.",
   "msg4_prepa_formation_depart_Info": "40% complete",
   "btn_msg4_prepa_formation_depart_Info": "Être informé à la sortie",
-  "signature_prepa_formation_depart_Info": "Développé par ATC - Innovation & Formation"
-
+  "signature_prepa_formation_depart_Info": "Développé par ATC - Innovation & Formation",
+  "titre_departement_electriq": "Département Génie Electrique",
+  "sous_titre_departement_electriq": "Des solutions électriques intelligentes pour un avenir connecté",
+  "msg_departement_electriq":"Le département IoT, Automatisme et Électrique d’ATC est au cœur de la modernisation énergétique et technologique. Nos ingénieurs conçoivent des solutions intelligentes intégrant l’énergie, l’automatisation et l’Internet des Objets (IoT) pour optimiser les performances et l’efficacité des systèmes. De l’étude à la mise en œuvre, nous maîtrisons l’ensemble du processus afin de proposer des solutions fiables, connectées et durables, au service de l’avenir énergétique de l’Afrique.",
+  "skill1_departement_electriq" : "GENIE ÉLECTRIQUE",
+  "skill2_departement_electriq" : "AUTOMATISME",
+  "skill3_departement_electriq" : "SOLUTIONS IoT ",
+  "skill4_departement_electriq" : "Maintenance et Sécurité des Systèmes",
+ "equipe_electriq": "Des experts en électricité et automatisation à votre service"
 }
