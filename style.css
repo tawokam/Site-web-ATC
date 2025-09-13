@@ -8321,10 +8321,13 @@ p.form-messege{
 .breadcumb-area-info {
     background-image: url(assets/images/genie_informatique_1920x780.webp);
 }
+.breadcumb-area-formation {
+    background-image: url(assets/images/formation_450x500_1920x780.webp);
+}
 .breadcumb-area-elec {
     background-image: url(assets/images/GENIE_electrique_1920x780.webp);
 }
- .breadcumb-area::before, .breadcumb-area-elec::before, .breadcumb-area-info::before, .breadcumb-blog-area::before {
+ .breadcumb-area::before, .breadcumb-area-formation::before, .breadcumb-area-elec::before, .breadcumb-area-info::before, .breadcumb-blog-area::before {
      position: absolute;
      left: 0;
      top: 0;
