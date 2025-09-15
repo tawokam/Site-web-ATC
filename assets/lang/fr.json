@@ -159,5 +159,34 @@
   "skill2_departement_electriq" : "AUTOMATISME",
   "skill3_departement_electriq" : "SOLUTIONS IoT ",
   "skill4_departement_electriq" : "Maintenance et Sécurité des Systèmes",
- "equipe_electriq": "Des experts en électricité et automatisation à votre service"
+ "equipe_electriq": "Des experts en électricité et automatisation à votre service",
+ 
+ "auto_indus_titre_service_departement_ge": "Automatisation Industrielle",
+ "auto_indus_msg1_service_departement_ge": "Conception de systèmes automatisés, contrôle-commande et optimisation des processus industriels.",
+ "auto_indus_msg2_service_departement_ge": "Systèmes de pesage, gestion de stocks et automatisation de chaînes de production.",
+ 
+ "bat_intel_titre_service_departement_ge": "Bâtiments Intelligents",
+ "bat_intel_msg1_service_departement_ge": "Contrôle d'accès, éclairage intelligent, vidéosurveillance, domotique et gestion énergétique.",
+ "bat_intel_msg2_service_departement_ge": "Systèmes électriques innovants et gestion technique des infrastructures.",
+ 
+ "reseau_iot_titre_service_departement_ge": "Réseaux et IoT",
+ "reseau_iot_msg1_service_departement_ge": "Développement de réseaux sans fil, systèmes IoT industriels et solutions de communication avancées.",
+ "reseau_iot_msg2_service_departement_ge": "Solutions de communication sans fil et systèmes IoT connectés.",
+ 
+ "energie_titre_service_departement_ge": "Énergie et Gestion Électrique",
+ "energie_msg1_service_departement_ge": "Supervision énergétique, maintenance préventive et solutions durables pour l'industrie et le bâtiment.",
+ "energie_msg2_service_departement_ge": "Optimisation énergétique et intégration des énergies renouvelables.",
+ 
+ "securite_titre_service_departement_ge": "Sécurité et Systèmes d'Alerte",
+ "securite_msg1_service_departement_ge": "Systèmes de détection, alarmes, sécurité incendie et protection des personnes et des biens.",
+ "securite_msg2_service_departement_ge": "Systèmes de sécurité et d'alerte pour infrastructures critiques.",
+ "msg_temoin1_depart_GE": "L'automatisation de notre chaîne de production par ATC a boosté notre productivité de 40% et réduit nos erreurs de 85%. Leur expertise en systèmes de pesage et gestion de stocks a révolutionné notre usine.",
+ "role_temoin1_depart_GE": "Directeur Industriel",
+ 
+ "msg_temoin2_depart_GE": "La domotique intégrée par ATC dans notre complexe hôtelier a réduit notre consommation énergétique de 35% et offert une expérience client exceptionnelle. Leur système de contrôle d'accès et vidéosurveillance est impeccable.",
+ "role_temoin2_depart_GE": "Gérante - Hôtel",
+ 
+ "msg_temoin3_depart_GE": "Le réseau IoT déployé par ATC pour notre ferme agricole nous permet de monitorer en temps réel l'irrigation et le bétail. Une solution sur mesure qui a augmenté notre rendement de 25% tout en économisant l'eau.",
+ "role_temoin3_depart_GE": "Agro-entrepreneur - Ferme Moderne"
+ 
 }

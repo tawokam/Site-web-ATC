@@ -160,7 +160,35 @@
   "skill2_departement_electriq" : "AUTOMATION",
   "skill3_departement_electriq" : "IoT SOLUTIONS",
   "skill4_departement_electriq" : "Maintenance and Systems Security",
-  "equipe_electriq": "Experts in Electrical Engineering and Automation at Your Service"
+  "equipe_electriq": "Experts in Electrical Engineering and Automation at Your Service",
 
+  "auto_indus_titre_service_departement_ge": "Industrial Automation",
+  "auto_indus_msg1_service_departement_ge": "Design of automated systems, control-command and optimization of industrial processes.",
+  "auto_indus_msg2_service_departement_ge": "Weighing systems, stock management and production line automation.",
+  
+  "bat_intel_titre_service_departement_ge": "Smart Buildings",
+  "bat_intel_msg1_service_departement_ge": "Access control, smart lighting, video surveillance, home automation and energy management.",
+  "bat_intel_msg2_service_departement_ge": "Innovative electrical systems and technical infrastructure management.",
+  
+  "reseau_iot_titre_service_departement_ge": "Networks and IoT",
+  "reseau_iot_msg1_service_departement_ge": "Development of wireless networks, industrial IoT systems and advanced communication solutions.",
+  "reseau_iot_msg2_service_departement_ge": "Wireless communication solutions and connected IoT systems.",
+  
+  "energie_titre_service_departement_ge": "Energy and Electrical Management",
+  "energie_msg1_service_departement_ge": "Energy supervision, preventive maintenance and sustainable solutions for industry and buildings.",
+  "energie_msg2_service_departement_ge": "Energy optimization and integration of renewable energies.",
+  
+  "securite_titre_service_departement_ge": "Security and Alert Systems",
+  "securite_msg1_service_departement_ge": "Detection systems, alarms, fire safety and protection of people and assets.",
+  "securite_msg2_service_departement_ge": "Security and alert systems for critical infrastructures.",
 
+  "msg_temoin1_depart_GE": "ATC's automation of our production line boosted our productivity by 40% and reduced our errors by 85%. Their expertise in weighing systems and stock management revolutionized our factory.",
+  "role_temoin1_depart_GE": "Industrial Director",
+  
+  "msg_temoin2_depart_GE": "The home automation integrated by ATC in our hotel complex reduced our energy consumption by 35% and provided an exceptional customer experience. Their access control and video surveillance system is impeccable.",
+  "role_temoin2_depart_GE": "Manager - Hotel",
+  
+  "msg_temoin3_depart_GE": "The IoT network deployed by ATC for our farm allows us to monitor irrigation and livestock in real time. A tailor-made solution that increased our yield by 25% while saving water.",
+  "role_temoin3_depart_GE": "Agri-entrepreneur - Modern Farm"
+  
 }
