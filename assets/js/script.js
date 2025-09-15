@@ -1,4 +1,4 @@
-var URLSite = "http://127.0.0.1/solutech/"; //http://127.0.0.1/solutech/ lien en ligne : https://site-web-atc.vercel.app/
+var URLSite = "https://site-web-atc.vercel.app/"; //http://127.0.0.1/solutech/ lien en ligne : https://site-web-atc.vercel.app/
 console.log("URL du site:", URLSite);
 
 // Fonction pour charger et appliquer les traductions
