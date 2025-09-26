@@ -51,7 +51,7 @@
   "electriq_card_msg_Notre_expertise": "Electrical installation, automation, renewable energy, and industrial solutions.",
   "informatiq_card_titre_Notre_expertise": "Computer Engineering",
   "informatiq_card_msg_Notre_expertise": "Software development, artificial intelligence, cybersecurity, and digital transformation.",
-  "marketing_card_titre_Notre_expertise": "Marketing & Strategy",
+  "marketing_card_titre_Notre_expertise": "Marketing & Communication",
   "marketing_card_msg_Notre_expertise": "Brand strategy, growth hacking, digital visibility, and business development.",
   "consulting_card_titre_Notre_expertise": "Consulting & Engineering",
   "consulting_card_msg_Notre_expertise": "Technical studies, consulting expertise, and support for complex projects.",
@@ -208,5 +208,45 @@
 
   "role_temoin1_depart_GC":"PROPERTY OWNER",
   "role_temoin2_depart_GC":"ARCHITECT",
-  "role_temoin3_depart_GC":"REAL ESTATE AGENT"
+  "role_temoin3_depart_GC":"REAL ESTATE AGENT",
+  "depart_marketing_card_titre_Notre_expertise": "Department of Marketing and Communications",
+  "sous_titre_departement_markCom": "Touching millions of people with modern communication strategies",
+  "msg_departement_markCom" : "ATC's Marketing & Communication Department supports you in your company's digital transformation. Our experts design tailored strategies to increase your visibility, generate qualified leads, and strengthen your brand image. From audit to implementation, we develop integrated communication solutions that help you conquer new markets and optimize your growth in Africa and beyond.",
+  "skill1_departement_markCom":"Strategy & Consulting",
+  "skill2_departement_markCom": "Digital Marketing",
+  "skill3_departement_markCom" : "CONTENT CREATION",
+  "skill4_departement_markCom" : "INTERNATIONAL COMMUNICATION STRATEGY",
+
+  "strategie_titre_service_marketing": "Strategy & Consulting",
+  "strategie_msg1_service_marketing": "Market analysis, digital strategy, storytelling and communication roadmap.",
+  "strategie_msg2_service_marketing": "Audit, brand positioning and customized communication plans.",
+  
+  "digital_titre_service_marketing": "Digital Marketing",
+  "digital_msg1_service_marketing": "SEO, digital advertising, social media, email marketing and inbound marketing.",
+  "digital_msg2_service_marketing": "Complete digital strategies to maximize your online visibility.",
+  
+  "creation_titre_service_marketing": "Creation & Content",
+  "creation_msg1_service_marketing": "Visual identity, videos, professional writing and content strategy.",
+  "creation_msg2_service_marketing": "Graphic design, audiovisual production and engaging content.",
+  
+  "presse_titre_service_marketing": "Press Relations & Media",
+  "presse_msg1_service_marketing": "Press relations, crisis management, events and media partnerships.",
+  "presse_msg2_service_marketing": "Management of your media image and relations with the press.",
+  
+  "analyse_titre_service_marketing": "Analysis & Performance",
+  "analyse_msg1_service_marketing": "Analytics reporting, competitive intelligence, A/B testing and dashboards.",
+  "analyse_msg2_service_marketing": "Impact measurement and optimization of your marketing campaigns.",
+  
+  "international_titre_service_marketing": "International Communication",
+  "international_msg1_service_marketing": "Internationalization strategies, cultural adaptation and multi-country campaigns.",
+  "international_msg2_service_marketing": "Internationalization strategies and multicultural adaptation.",
+  "msg_temoin1_marketing": "The digital strategy developed by ATC transformed our online visibility. In 6 months, our web traffic increased by 300% and we generated 50% more qualified leads. Their data-driven approach is remarkable.",
+  "role_temoin1_marketing": "Marketing Director - Industrial Group",
+  
+  "msg_temoin2_marketing": "The press relations campaign orchestrated by ATC gave us exceptional media coverage. 15 articles in national media in 3 months, and a 40% increase in our brand awareness. Impeccable professionalism.",
+  "role_temoin2_marketing": "CEO - Tech Startup",
+  
+  "msg_temoin3_marketing": "The visual identity created by ATC completely redefined our brand image. The new design boosted our social media engagement by 200% and our recognition rate doubled. Exceptional creative work.",
+  "role_temoin3_marketing": "Sales Director - Service Company"
+  
 }

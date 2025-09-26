@@ -50,7 +50,7 @@
   "electriq_card_msg_Notre_expertise": "Installation électrique, automatisme, énergie renouvelable et solutions industrielles.",
   "informatiq_card_titre_Notre_expertise": "Génie Informatique",
   "informatiq_card_msg_Notre_expertise": "Développement logiciel, intélligence artificiel, cybersécurité et transformation digitale.",
-  "marketing_card_titre_Notre_expertise": "Marketing & Stratégie",
+  "marketing_card_titre_Notre_expertise": "Marketing & Communication",
   "marketing_card_msg_Notre_expertise": "Stratégie de marque, growth hacking, visibilité numérique et développement commercial.",
   "consulting_card_titre_Notre_expertise": "Consulting & Ingéniery",
   "consulting_card_msg_Notre_expertise": "Études techniques, expertise conseil et accompagnement de projets complexes.",
@@ -214,5 +214,44 @@
  "temoin3_gc":"Le service après-vente d'ATC est également un atout majeur. Contrairement à d'autres promoteurs qui disparaissent après la livraison, ATC reste présent pour garantir la satisfaction des acquéreurs, ce qui renforce la confiance et valorise mon portefeuille de biens.",
  "role_temoin1_depart_GC":"PROPRIÉTAIRE IMMOBILIER",
  "role_temoin2_depart_GC":"ARCHITECTE",
- "role_temoin3_depart_GC":"Agent immobilier"
+ "role_temoin3_depart_GC":"Agent immobilier",
+ "depart_marketing_card_titre_Notre_expertise": "Département Marketing & Communication",
+ "sous_titre_departement_markCom": "Toucher des millions de personnes grâce à des stratégies de communication modernes",
+ "msg_departement_markCom" : "Le Département Marketing & Communication d'ATC vous accompagne dans la transformation digitale de votre entreprise. Nos experts conçoivent des stratégies sur mesure pour accroître votre visibilité, générer des leads qualifiés et renforcer votre image de marque. De l'audit à la mise en œuvre, nous développons des solutions de communication intégrées qui vous aident à conquérir de nouveaux marchés et à optimiser votre croissance en Afrique et au-delà.",
+ "skill1_departement_markCom":"STRATÉGIE & CONSEIL",
+ "skill2_departement_markCom": "MARKETING DIGITAL",
+ "skill3_departement_markCom" : "CRÉATION & CONTENU",
+ "skill4_departement_markCom" : "COMMUNICATION INTERNATIONALE",
+
+ "strategie_titre_service_marketing": "Stratégie & Conseil",
+ "strategie_msg1_service_marketing": "Analyse de marché, stratégie digitale, storytelling et roadmap de communication.",
+ "strategie_msg2_service_marketing": "Audit, positionnement de marque et plans de communication sur mesure.",
+ 
+ "digital_titre_service_marketing": "Marketing Digital",
+ "digital_msg1_service_marketing": "SEO, publicités digitales, réseaux sociaux, email marketing et inbound marketing.",
+ "digital_msg2_service_marketing": "Stratégies digitales complètes pour maximiser votre visibilité en ligne.",
+ 
+ "creation_titre_service_marketing": "Création & Contenu",
+ "creation_msg1_service_marketing": "Identité visuelle, vidéos, rédaction professionnelle et stratégie de contenu.",
+ "creation_msg2_service_marketing": "Design graphique, production audiovisuelle et contenu engageant.",
+ 
+ "presse_titre_service_marketing": "Relations Presse & Médias",
+ "presse_msg1_service_marketing": "Relations presse, gestion de crise, événementiel et partenariats médiatiques.",
+ "presse_msg2_service_marketing": "Gestion de votre image médiatique et relations avec la presse.",
+ 
+ "analyse_titre_service_marketing": "Analyse & Performance",
+ "analyse_msg1_service_marketing": "Reporting analytics, veille concurrentielle, A/B testing et tableaux de bord.",
+ "analyse_msg2_service_marketing": "Mesure d'impact et optimisation de vos campagnes marketing.",
+ 
+ "international_titre_service_marketing": "Communication Internationale",
+ "international_msg1_service_marketing": "Stratégies d'internationalisation, adaptation culturelle et campagnes multi-pays.",
+ "international_msg2_service_marketing": "Stratégies d'internationalisation et adaptation multiculturelle.",
+ "msg_temoin1_marketing": "La stratégie digitale développée par ATC a transformé notre visibilité en ligne. En 6 mois, notre trafic web a augmenté de 300% et nous avons généré 50% de leads qualifiés en plus. Leur approche data-driven est remarquable.",
+ "role_temoin1_marketing": "Directrice Marketing - Groupe Industriel",
+ 
+ "msg_temoin2_marketing": "La campagne de relations presse orchestrée par ATC nous a offert une couverture médiatique exceptionnelle. 15 articles dans des médias nationaux en 3 mois, et une augmentation de 40% de notre notoriété de marque. Professionnalisme impeccable.",
+ "role_temoin2_marketing": "PDG - Startup Technologique",
+ 
+ "msg_temoin3_marketing": "L'identité visuelle créée par ATC a complètement redéfini notre image de marque. Le nouveau design a boosté notre engagement sur les réseaux sociaux de 200% et notre taux de reconnaissance a doublé. Un travail créatif exceptionnel.",
+ "role_temoin3_marketing": "Directrice Commerciale - Entreprise de Services"
 }
