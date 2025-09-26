@@ -12045,7 +12045,7 @@ p.form-messege{
      padding: 15px 50px;
 }
 /* solutech_make_service_area */
- .solutech_make_service_area_GENIE_INFORMATIQUE, .solutech_make_service_area_GENIE_CIVIL, .solutech_make_service_area_GENIE_ELECTRIQUE {
+ .solutech_make_service_area_GENIE_INFORMATIQUE, .solutech_make_service_area_GENIE_CIVIL, .solutech_make_service_area_MarketingCom, .solutech_make_service_area_GENIE_ELECTRIQUE {
      padding:100px 0px 80px;
      background-image: url(assets/images/DEVIS_GENIE_INFO_900x500.webp);
      background-position: center center;
@@ -12057,10 +12057,13 @@ p.form-messege{
 .solutech_make_service_area_GENIE_ELECTRIQUE{
     background-image: url(assets/images/FORMATION_GENIE_ELECT_900x500.webp);
 }
+.solutech_make_service_area_MarketingCom{
+    background-image: url(assets/images/formation_marketing_communication_900x500.webp);
+}
 .solutech_make_service_area_GENIE_CIVIL{
     background-image: url(assets/images/formation_genie_civil_900x500.webp);
 }
- .solutech_make_service_area_GENIE_INFORMATIQUE:before, .solutech_make_service_area_GENIE_CIVIL:before, .solutech_make_service_area_GENIE_ELECTRIQUE:before {
+ .solutech_make_service_area_GENIE_INFORMATIQUE:before, .solutech_make_service_area_GENIE_CIVIL:before, .solutech_make_service_area_MarketingCom:before, .solutech_make_service_area_GENIE_ELECTRIQUE:before {
      position: absolute;
      content: "";
      top: 0;
