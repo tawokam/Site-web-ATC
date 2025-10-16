@@ -33,7 +33,7 @@ async function changeLanguage(lang) {
         console.log('Langue changée avec succès:', lang);
     } catch (error) {
         console.error('Erreur détaillée:', error);
-        alert(`Erreur de chargement de la langue ${lang}. Vérifiez la console pour plus de détails.`);
+        alert(`Erreur de chargement de la langue ${lang}.`);
     }
 }
 

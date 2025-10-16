@@ -8310,7 +8310,7 @@ p.form-messege{
  .breadcumb-inner h2 {
      font-size: 36px;
 }
- .breadcumb-area, .breadcumb-area-formation, .breadcumb-area-info, .breadcumb-area-Com, .breadcumb-area-elec, .breadcumb-area-btp {
+ .breadcumb-area, .breadcumb-area-formation, .breadcumb-area-info, .breadcumb-area-apropos, .breadcumb-area-Com, .breadcumb-area-elec, .breadcumb-area-btp {
      padding: 150px 0px;
      background-image: url(assets/images/home_contact_img_1920x780.webp);
      background-position: center center;
@@ -8320,6 +8320,9 @@ p.form-messege{
 }
 .breadcumb-area-info {
     background-image: url(assets/images/genie_informatique_1920x780.webp);
+}
+.breadcumb-area-apropos {
+    background-image: url(assets/images/home_apropos_1920X750.webp);
 }
 .breadcumb-area-formation {
     background-image: url(assets/images/formation_450x500_1920x780.webp);
@@ -8333,7 +8336,7 @@ p.form-messege{
 .breadcumb-area-btp {
     background-image: url(assets/images/IMG_BTP_PRINCIPAL_1920x780.webp);
 }
- .breadcumb-area::before, .breadcumb-area-formation::before, .breadcumb-area-btp::before, .breadcumb-area-Com::before, .breadcumb-area-elec::before, .breadcumb-area-info::before, .breadcumb-blog-area::before {
+ .breadcumb-area::before, .breadcumb-area-formation::before, .breadcumb-area-btp::before, .breadcumb-area-Com::before, .breadcumb-area-elec::before, .breadcumb-area-info::before, .breadcumb-area-apropos::before .breadcumb-blog-area::before {
      position: absolute;
      left: 0;
      top: 0;
